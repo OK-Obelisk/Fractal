@@ -14,11 +14,9 @@ public class ItemInit {
     public static final DeferredRegister<Item> ITEMS = new DeferredRegister<>(ForgeRegistries.ITEMS, Fractal.MOD_ID);
 
     // Items
-
     public static final RegistryObject<Item> SPYGLASS = ITEMS.register("spyglass", () -> new SpyglassItem(new Item.Properties().group(ItemGroup.TOOLS)));
 
     // Foods
-
     public static final RegistryObject<Item> SWEET_BERRY_PIE = ITEMS.register("sweet_berry_pie", () -> new Item(new Item.Properties().group(ItemGroup.FOOD).food((new Food.Builder()).hunger(8).saturation(0.8f).build())));
     public static final RegistryObject<Item> FRIED_EGG = ITEMS.register("fried_egg", () -> new Item(new Item.Properties().group(ItemGroup.FOOD).food((new Food.Builder()).hunger(2).saturation(0.3f).fastToEat().build())));
 
