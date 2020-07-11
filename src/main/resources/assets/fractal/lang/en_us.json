@@ -1,0 +1,11 @@
+{
+	// Items
+	"item.fractal.spyglass": "Spyglass",
+
+	// Foods
+	"item.fractal.sweet_berry_pie": "Sweet Berry Pie",
+	"item.fractal.fried_egg": "Fried Egg",
+
+	// Enchantments
+	"enchantment.fractal.magnify": "Magnify"
+}
