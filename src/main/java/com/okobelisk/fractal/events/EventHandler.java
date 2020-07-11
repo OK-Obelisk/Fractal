@@ -1,6 +1,6 @@
-package com.ok.fractal.events;
+package com.okobelisk.fractal.events;
 
-import com.ok.fractal.Fractal;
+import com.okobelisk.fractal.Fractal;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber.Bus;
 

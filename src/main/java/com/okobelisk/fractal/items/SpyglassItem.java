@@ -1,8 +1,8 @@
-package com.ok.fractal.items;
+package com.okobelisk.fractal.items;
 
-import com.ok.fractal.Fractal;
-import com.ok.fractal.init.EnchantmentInit;
-import com.ok.fractal.init.ItemInit;
+import com.okobelisk.fractal.Fractal;
+import com.okobelisk.fractal.init.EnchantmentInit;
+import com.okobelisk.fractal.init.ItemInit;
 import net.minecraft.block.Blocks;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.BufferBuilder;

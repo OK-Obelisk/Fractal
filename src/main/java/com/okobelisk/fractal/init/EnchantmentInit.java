@@ -1,7 +1,7 @@
-package com.ok.fractal.init;
+package com.okobelisk.fractal.init;
 
-import com.ok.fractal.Fractal;
-import com.ok.fractal.enchantments.spyglass.MagnifyEnchantment;
+import com.okobelisk.fractal.Fractal;
+import com.okobelisk.fractal.enchantments.spyglass.MagnifyEnchantment;
 import net.minecraft.enchantment.Enchantment;
 import net.minecraft.enchantment.Enchantment.Rarity;
 import net.minecraft.enchantment.EnchantmentType;
