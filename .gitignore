@@ -17,11 +17,13 @@ out
 build
 .gradle
 gradlew.bat
+gradlew
 build.gradle
 gradle.properties
 gradle
 
 # other
+.gitignore
 eclipse
 run
 
