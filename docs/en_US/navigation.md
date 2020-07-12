@@ -7,14 +7,21 @@
 
 [gimmick:theme](cyborg)
 
-[Mobs](pages/mobs.md)
+[Blocks](pages/blocks.md)
 
 [Items]()
 
   * [Foods](pages/items-foods.md)
-  * [Weapons](pages/items-weapons.md)
+  * [Tools](pages/items-tools.md)
   * [Miscellaneous](pages/items-misc.md)
 
+[Mobs](pages/mobs.md)
+
+[World]()
+
+  * [Biomes](pages/world-biomes.md)
+
+[Enchantments](pages/enchantments.md)
 
 <!--
   -- Change the Language
