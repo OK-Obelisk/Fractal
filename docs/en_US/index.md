@@ -1,6 +1,0 @@
-# Fractal
-
-
-## About
-
-dfsasdaasdf
